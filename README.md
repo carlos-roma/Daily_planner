@@ -16,6 +16,9 @@
   ## Installation
   Runs on the browser
   
+  ## Screenshot
+  ![Screenshot (280)](https://github.com/carlos-roma/Daily_planner/assets/68045584/9a41fd0f-1bb9-4719-9d20-7d32f4039f43)
+
   ## How to Use This Application
   Write your event on the time slot and save it by pressing the blue button
   
